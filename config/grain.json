@@ -1,5 +1,15 @@
 {
   "allocationPolicies": [
+    {
+      "budget": "100000",
+      "numIntervalsLookback": 1,
+      "policyType": "IMMEDIATE"
+    },
+    {
+      "budget": "100000",
+      "discount": 0.75,
+      "policyType": "RECENT"
+    }
   ],
   "maxSimultaneousDistributions": 1
 }
