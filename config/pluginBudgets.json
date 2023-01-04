@@ -1,0 +1,10 @@
+{
+  "intervalLength": "WEEKLY",
+  "plugins": {    
+    "sourcecred/discord": [
+      {"startTime": "2023-01-01", "budget": 5000},
+      {"startTime": "2023-06-04", "budget": 0},
+      {"startTime": "2023-07-02", "budget": 5000}
+    ]
+  }
+}
