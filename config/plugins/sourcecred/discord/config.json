@@ -1,5 +1,6 @@
 [
   {
+    "beginningDate": "1/1/2023",
     "channelWeightConfig": {
       "defaultWeight": 1,
       "weights": {
