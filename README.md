@@ -1,7 +1,8 @@
 Local badges:
 
 [![Generate Cred Instance](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/generate-instance.yml/badge.svg)](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/generate-instance.yml)
-
+[![Distribute Grain](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/distribute-grain.yml/badge.svg?branch=main)](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/distribute-grain.yml)
+[I'm the link to the dashboard!](https://legocurator.github.io/SourceCredDemoRPlus/#/explorer)
 # SourceCred Template Instance
 
 This repository contains a template for running a SourceCred instance.
