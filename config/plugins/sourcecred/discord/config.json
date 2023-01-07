@@ -1,12 +1,9 @@
 [
   {
-    "beginningDate": "1/5/2023",
+    "beginningDate": "10/1/2022",
     "channelWeightConfig": {
       "defaultWeight": 1,
       "weights": {
-        "738691158955393075": 2,
-        "738742185138061364": 4,
-        "828173398508044344": 3
       }
     },
     "guildId": "735794929263181874",
@@ -17,13 +14,11 @@
       "applyAveraging": false,
       "defaultWeight": 1,
       "weights": {
-        ":ftspin:": 1
       }
     },
     "roleWeightConfig": {
       "defaultWeight": 1,
       "weights": {
-        "789953278254776320": 2
       }
     }
   }
