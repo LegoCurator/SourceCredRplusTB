@@ -11,5 +11,5 @@
       "policyType": "RECENT"
     }
   ],
-  "maxSimultaneousDistributions": 2
+  "maxSimultaneousDistributions": 2000
 }
