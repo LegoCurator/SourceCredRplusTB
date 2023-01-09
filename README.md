@@ -1,9 +1,7 @@
-Local badges:
-
 [![Generate Cred Instance](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/generate-instance.yml/badge.svg)](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/generate-instance.yml)
 [![Distribute Grain](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/distribute-grain.yml/badge.svg?branch=main)](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/distribute-grain.yml)
 
-[![Stats]](https://legocurator.github.io/SourceCredDemoRPlus/#/explorer)
+[I'm the link to the resultds page!!](https://legocurator.github.io/SourceCredDemoRPlus/#/explorer)
 
 # SourceCred Template Instance
 
