@@ -1,7 +1,7 @@
-[![Generate Cred Instance](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/generate-instance.yml/badge.svg)](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/generate-instance.yml)
-[![Distribute Grain](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/distribute-grain.yml/badge.svg?branch=main)](https://github.com/LegoCurator/SourceCredDemoRPlus/actions/workflows/distribute-grain.yml)
+[![Generate Cred Instance](https://github.com/LegoCurator/SourceCredRplusTB/actions/workflows/generate-instance.yml/badge.svg)](https://github.com/LegoCurator/SourceCredRplusTB/actions/workflows/generate-instance.yml)
+[![Distribute Grain](https://github.com/LegoCurator/SourceCredRplusTB/actions/workflows/distribute-grain.yml/badge.svg?branch=main)](https://github.com/LegoCurator/SourceCredRplusTB/actions/workflows/distribute-grain.yml)
 
-[I'm the link to the resultds page!!](https://legocurator.github.io/SourceCredDemoRPlus/#/explorer)
+[I'm the link to the results page!!](https://legocurator.github.io/SourceCredRplusTB/#/explorer)
 
 # SourceCred Template Instance
 
