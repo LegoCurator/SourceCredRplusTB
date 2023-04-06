@@ -1,0 +1,25 @@
+[
+  {
+    "beginningDate": "4/5/2023",
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+      }
+    },
+    "guildId": "948241013628088360",
+    "includeNsfwChannels": true,
+    "propsChannels": [
+    ],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+      }
+    }
+  }
+]
